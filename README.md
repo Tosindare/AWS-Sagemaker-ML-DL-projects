@@ -1,2 +1,2 @@
 # AWS-Sagemaker-NLP-DL-projects
-End to End Natural Language Processing Projects on AWS ecosystem
+End to End Machine Learning and Deep learning Projects on AWS ecosystem
